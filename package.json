@@ -4,9 +4,11 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.2",
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
     "mongodb": "^3.0.1",
     "mongoose": "^5.0.15",
     "nodemon": "^1.14.10"
